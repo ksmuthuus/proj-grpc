@@ -1,0 +1,1 @@
+%UserProfile%\.nuget\packages\grpc.tools\2.27.0\tools\windows_x64\protoc.exe --proto_path=proto --grpc_out=proto --csharp_out=proto --csharp_opt=file_extension=.g.cs employee.proto --plugin=protoc-gen-grpc=%UserProfile%\.nuget\packages\grpc.tools\2.27.0\tools\windows_x64\grpc_csharp_plugin.exe
